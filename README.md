@@ -1,14 +1,14 @@
 # Customer Segmentation with RFM Scores and K-means
-
-# Business Problem
+![alt text](https://cdn.enhencer.com/website-assets/images/blog/AdvantagesAndInefficaciesOfRFMSegmentation1.png) ![alt text](https://www.vlfeat.org/demo/kmeans_2d_rand.jpg)
+## Business Problem
 
 Rule-based customer segmentation machine learning method with RFM for customer segmentation of K-Means comparison is expected. 
 
-# History of Dataset
+## History of Dataset
 
 The data set named Online Retail II is a UK-based online sale. store's sales between 01/12/2009 - 09/12/2011 contains. The product catalog of this company includes souvenirs. The vast majority of the company's customers are corporate customers.
 
-#   Variables
+##   Variables
 
 InvoiceNo – Invoice Number, If this code starts with C, it indicates that the transaction has been cancelled.
 
