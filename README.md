@@ -1,4 +1,5 @@
 # Customer Segmentation with RFM Scores and K-means
+
 # Business Problem
 
 Rule-based customer segmentation machine learning method with RFM for customer segmentation of K-Means comparison is expected. 
